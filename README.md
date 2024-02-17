@@ -33,10 +33,6 @@ List of apps and services used:
     - Choosing the design system and components library
     - Why do you build components in Figma?
     - The thinking process while designing a page
-        - افهم المطلوب
-        - اكتب تفاصيل كل صفحة وأقسامها
-        - شخبط على ورق **وانظر لأمثلة وإلهامات**
-        - نفذ وبطل أفورة
     
 
 # Frontend architecture
