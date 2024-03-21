@@ -228,7 +228,30 @@ The home page typically consists of the following components:
     - **Image Upload Security**: Implement measures to secure image uploads, such as file type validation and size limits, to prevent malicious uploads.
 
 # Cart of products
+## frontend
 
-# Payment process
+## backend
 
-# Map
+### Overview
+
+The  product cart feature ensures a seamless shopping experience for users. It allows users to add items to their cart, even if they leave the website and return later. They can conveniently view and manage their selected items and proceed to purchase them securely using their credit card details.
+
+  
+
+### Key Features
+
+- Persistent Cart: Users can add products to their cart, and the items will persist even if they navigate away from the website and return later
+
+- Real-Time Updates: Users receive real-time updates on their cart status, including additions, removals, and total price adjustments.
+
+- Multiple Payment Options: In addition to credit card payments, users can choose from various payment methods for added flexibility.
+
+- Guest Checkout: Users have the option to proceed with guest checkout, streamlining the purchasing process for first-time visitors.
+
+- Secure Transactions: Robust security measures ensure the safety of users' credit card information during transactions.
+
+- Order History: Users can access their order history, allowing them to track previous purchases and reorder items easily.
+
+- Wishlist Integration: Seamless integration with the wishlist feature allows users to move desired items from the cart to their wishlist for future reference.
+
+- Customization Options: Users can personalize their cart by adjusting quantities, applying discounts, and adding notes to specific items.
